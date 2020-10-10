@@ -1,13 +1,21 @@
 # Code Refractor for Horiseon
 ## The Client:
- 
+ "AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines"
 
 ## In HTML:
+* 
+* 
 
-[<img src="assets/images/htmlrefractor.png" width="300"/>](assets/images/htmlrefractor.png)
+
 
 ## In CSS:
+* 
+* 
 
+### Screenshots of Refractored Code in HTML & CSS
+[<img src="assets/images/htmlrefractor.png" width="300"/>](assets/images/htmlrefractor.png)
 [<img src="assets/images/cssrefrator.png" width="300"/>](assets/images/cssrefrator.png)
 
 ### Link to Repo:  
