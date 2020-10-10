@@ -10,6 +10,6 @@
 
 ### Screenshots:
 ###### Original
-![Before](Before-refractor-1.png =50x20)
+![Before](Before-refractor-1.png) { width=50% }
 ###### After Updated Code
- ![After](After-refractor.png =50x20)
+ ![After](After-refractor.png) { width=50% }
