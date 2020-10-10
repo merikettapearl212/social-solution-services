@@ -1,17 +1,13 @@
 # Code Refractor for Horiseon
-
 ## The Client:
  
 
 ## In HTML:
 
+[<img src="After-refractor.png" width="250"/>](After-refractor.png)
 
 ## In CSS:
 
-### Screenshots:
+[<img src="" width="250"/>]()
 
-##### Original     
-[<img src="Before-refractor-1.png" width="250"/>](Before-refractor-1.png) 
-
-##### After Updated Code 
-[<img src="After-refractor.png" width="250"/>](After-refractor.png)
+### Link to Repo 
