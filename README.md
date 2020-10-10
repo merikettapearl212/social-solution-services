@@ -9,8 +9,5 @@
 ## In CSS:
 
 ### Screenshots:
-###### Original
-![Before](Before-refractor-1.png) { width=50% }
-###### After Updated Code
- ![After](After-refractor.png) 
- [<img src="After-refractor.png" width="250"/>](After-refractor.png)
+###### Original     ###### After Updated Code 
+[<img src="Before-refractor-1.png.png" width="250"/>](Before-refractor-1.png) [<img src="After-refractor.png" width="250"/>](After-refractor.png)
