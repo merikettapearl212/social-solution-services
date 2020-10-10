@@ -1,11 +1,8 @@
 # Code Refractor for Horiseon
 ## The Client:
- "AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines"
-
+ Asked for a codebase that follows accessibilty standards so the site is optimized best for search engines.
 ## In HTML:
-* 
+* Created more meaning by avoiding div tags and using more semantic elements like `<header>`, `<main>`, `<aside>`, `<footer>` and `<nav>` tags instead.
 * 
 
 
@@ -15,7 +12,7 @@ SO THAT our own site is optimized for search engines"
 * 
 
 ### Screenshots of Refractored Code in HTML & CSS
-[<img src="assets/images/htmlrefractor.png" width="350"/>](assets/images/htmlrefractor.png)
+[<img src="assets/images/htmlrefractor.png" width="375"/>](assets/images/htmlrefractor.png)
 [<img src="assets/images/cssrefrator.png" width="350"/>](assets/images/cssrefrator.png)
 
 ### Link to Repo:  
