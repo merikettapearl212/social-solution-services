@@ -4,10 +4,10 @@
 
 ## In HTML:
 
-[<img src="After-refractor.png" width="250"/>](After-refractor.png)
+[<img src="assets/images/htmlrefractor.png" width="250"/>](assets/images/htmlrefractor.png)
 
 ## In CSS:
 
-[<img src="" width="250"/>]()
+[<img src="assets/images/cssrefrator.png" width="250"/>](assets/images/cssrefrator.png)
 
 ### Link to Repo 
