@@ -1,4 +1,7 @@
-# Changes:
+# Code Refractor for Horiseon
+
+## The Client:
+ ![Before](Before-refractor.png)
 
 ## In HTML:
 
