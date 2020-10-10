@@ -15,7 +15,7 @@ SO THAT our own site is optimized for search engines"
 * 
 
 ### Screenshots of Refractored Code in HTML & CSS
-[<img src="assets/images/htmlrefractor.png" width="450"/>](assets/images/htmlrefractor.png)
+[<img src="assets/images/htmlrefractor.png" width="400"/>](assets/images/htmlrefractor.png)
 [<img src="assets/images/cssrefrator.png" width="400"/>](assets/images/cssrefrator.png)
 
 ### Link to Repo:  
