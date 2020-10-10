@@ -11,7 +11,7 @@
 ### Screenshots:
 
 ##### Original     
-[<img src="Before-refractor-1.png.png" width="250"/>](Before-refractor-1.png) 
+[<img src="Before-refractor-1.png" width="250"/>](Before-refractor-1.png) 
 
 ##### After Updated Code 
 [<img src="After-refractor.png" width="250"/>](After-refractor.png)
