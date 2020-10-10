@@ -1,7 +1,7 @@
 # Code Refractor for Horiseon
 
 ## The Client:
- ![Before](Before-refractor.png)
+ 
 
 ## In HTML:
 
@@ -10,5 +10,6 @@
 
 ### Screenshots:
 ###### Original
-
-###### After Updates
+![Before](Before-refractor-1.png)
+###### After Updated Code
+![After](After-refractor.png)
