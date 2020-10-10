@@ -10,7 +10,6 @@
 
 ### Screenshots:
 ###### Original
-
+![Before](Before-refractor-1.png =50x20)
 ###### After Updated Code
-
-![Before](Before-refractor-1.png "title-1") ![After](After-refractor.png"title-2")
+ ![After](After-refractor.png =50x20)
