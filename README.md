@@ -10,8 +10,9 @@
 * Consolidated like code in containers
 * Changed container names to reflect the changed html semantic elements
 
-### Screenshots of Refractored Code in HTML & CSS
+### Screenshots of Refractored Code in HTML & CSS:
 [<img src="assets/images/htmlrefractor.png" width="370"/>](assets/images/htmlrefractor.png)
 [<img src="assets/images/cssrefrator.png" width="350"/>](assets/images/cssrefrator.png)
 
 ### Link to Repo:  
+[GitHub](https://github.com/merikettapearl212/social-solution-services)
