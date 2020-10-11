@@ -1,5 +1,5 @@
 # Code Refractor for Horiseon
-## The Client:
+### The Client:
  Asked for a codebase that follows accessibilty standards so the site is optimized best for search engines.
 ## In HTML:
 * Created more meaning by avoiding div tags and using more semantic elements like `<header>`, `<main>`, `<aside>`, `<footer>` and `<nav>` tags instead.
