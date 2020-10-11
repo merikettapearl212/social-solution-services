@@ -4,12 +4,11 @@
 ## In HTML:
 * Created more meaning by avoiding div tags and using more semantic elements like `<header>`, `<main>`, `<aside>`, `<footer>` and `<nav>` tags instead.
 * Added `<alt>` and aria text to images for accesibility 
-
-
+* Overall organized code
 
 ## In CSS:
-* 
-* 
+* Consolidated like code in containers
+* Changed container names to reflect the changed html semantic elements
 
 ### Screenshots of Refractored Code in HTML & CSS
 [<img src="assets/images/htmlrefractor.png" width="375"/>](assets/images/htmlrefractor.png)
