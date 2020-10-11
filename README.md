@@ -11,7 +11,7 @@
 * Changed container names to reflect the changed html semantic elements
 
 ### Screenshots of Refractored Code in HTML & CSS
-[<img src="assets/images/htmlrefractor.png" width="375"/>](assets/images/htmlrefractor.png)
+[<img src="assets/images/htmlrefractor.png" width="370"/>](assets/images/htmlrefractor.png)
 [<img src="assets/images/cssrefrator.png" width="350"/>](assets/images/cssrefrator.png)
 
 ### Link to Repo:  
